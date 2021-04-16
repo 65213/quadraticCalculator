@@ -1,0 +1,29 @@
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.exe.config
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.exe
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.pdb
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.xml
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.vbprojAssemblyReference.cache
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.Form1.resources
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.Resources.resources
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.vbproj.GenerateResource.cache
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.vbproj.CoreCompileInputs.cache
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.exe
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.xml
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.pdb
+F:\calcu - Copy\calcu\bin\Debug\calcu.exe.config
+F:\calcu - Copy\calcu\obj\Debug\calcu.exe
+F:\calcu - Copy\calcu\obj\Debug\calcu.xml
+F:\calcu - Copy\calcu\obj\Debug\calcu.pdb
+F:\calcu - Copy\calcu\bin\Debug\calcu.exe
+F:\calcu - Copy\calcu\bin\Debug\calcu.pdb
+F:\calcu - Copy\calcu\bin\Debug\calcu.xml
+F:\calcu - Copy\calcu\bin\Debug\System.Net.Http.dll
+F:\calcu - Copy\calcu\bin\Debug\System.Net.Http.xml
+F:\calcu - Copy\calcu\obj\Debug\calcu.vbprojResolveAssemblyReference.cache
+F:\calcu - Copy\calcu\obj\Debug\calcu.Form1.resources
+F:\calcu - Copy\calcu\obj\Debug\calcu.Resources.resources
+F:\calcu - Copy\calcu\obj\Debug\calcu.vbproj.GenerateResource.Cache
+C:\Users\Chillo\Desktop\Factual programming assignment\quadratic solver\calcu\bin\Debug\calcu.exe.config
+C:\Users\Chillo\Desktop\Factual programming assignment\quadratic solver\calcu\obj\Debug\calcu.exe
+C:\Users\Chillo\Desktop\Factual programming assignment\quadratic solver\calcu\obj\Debug\calcu.xml
+C:\Users\Chillo\Desktop\Factual programming assignment\quadratic solver\calcu\obj\Debug\calcu.pdb
